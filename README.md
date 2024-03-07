@@ -18,7 +18,7 @@
 - :school: I am a `Fresh Graduated` computer science from [Faculty of Computers & Artificial intelligence](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/)  [Benha University](http://suez.edu.eg/ar/).
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1P3eqKDP5WAmK17IMt5OQtJiPVecaoAqD/view?usp=sharing).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1l_Q-Tevkn5sf4olE5OwPR9uBaaiDZRj9/view?usp=drive_link).
 <br>
 
 
