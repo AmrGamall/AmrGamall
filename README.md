@@ -13,7 +13,7 @@
 
 - :technologist: A Passionate Full Stack .NET Developer.
 - 🧑‍🎓: I graduated from Faculty of Computers & Artificial Intelligence Benha University.
-- 🔭: I have completed 4-month program, intensive code camp at Information Technology Institute(ITI), Ministry of Communication and Information Technology.
+- 🔭: I have completed 4-month program, intensive code camp at Information Technology Institute(ITI).
 <br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
