@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Amr Gamal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Full+Stack +.NET+Developer;Competitive+Programmer;Expert+on+Codeforces;Division+1+on+Codechef+(5+Stars);Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Full+Stack+.NET+Develper;Expert+on+Codeforces;Always+learning+new+things"></a>
 </p>
 
 <br>
@@ -14,7 +14,7 @@
 
 - :technologist: A Passionate Full Stack .NET Developer.
 - 🧑‍🎓: I graduated from Faculty of Computers & Artificial Intelligence Benha University.
-- 🔭: I have completed 4-month program, intensive code camp at Information Technology Institute(ITI),Ministry of Communication and Information Technology.
+- 🔭: I have completed 4-month program, intensive code camp at Information Technology Institute(ITI), Ministry of Communication and Information Technology.
 <br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
