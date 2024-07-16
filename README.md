@@ -14,7 +14,6 @@
 - :technologist: A Passionate Full Stack .NET Developer.
 - 🧑‍🎓: I graduated from Faculty of Computers & Artificial Intelligence Benha University.
 - 🔭: I'm constantly learning and exploring new technologies to improve my skills.
-<br>
 
 ### Connect with Me :
 
