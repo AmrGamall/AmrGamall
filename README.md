@@ -41,6 +41,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=007ACC)&nbsp;
 ![DataStructure](https://img.shields.io/badge/-DataStructure%20-05122A?style=flat&logo=DataStructure)&nbsp;
+![Java](https://img.shields.io/badge/-Java%20-05122A?style=flat&logo=DataStructure)&nbsp;
 
  
 
